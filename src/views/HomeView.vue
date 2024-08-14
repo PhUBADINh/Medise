@@ -356,7 +356,7 @@ import UserLayout from '@/layout/UserLayout.vue'
                                     </div>
                                 </div>
                                 <div class="absolute right-[1.5rem] bottom-[-0.10rem]">
-                                    <img class="w-[10dvw] h-[18dvh]" src="../img/foot4.png" alt="">
+                                    <img class="w-[10dvw] h-[18dvh]" src="../img/foot4.png" alt="icon">
                                 </div>
                             </div>
                         </div>

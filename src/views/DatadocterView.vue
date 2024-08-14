@@ -72,7 +72,7 @@ import UserLayout from '@/layout/UserLayout.vue'
         นัดแพทย์ล่วงหน้า
         </button>
         </div>
-        <h1>ทัชหน้าหี</h1>        
+        <h1>ทัชปลากระป๋อง</h1>        
     </UserLayout>
 
   </template>
